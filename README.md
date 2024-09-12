@@ -12,9 +12,10 @@ I'm currently studying at Universidad Tecnológica de Torreón, focusing on web 
 ### Technologies:
 
 - **JavaScript (JS)**  
-  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)  - **MySQL**  
-  ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql.png)
+  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
 
+   - **MySQL**  
+  ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql.png)
 
   - **Vue.js**  
   ![Vue.js Icon](https://img.icons8.com/color/48/000000/vue-js.png)
