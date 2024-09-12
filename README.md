@@ -12,7 +12,8 @@ I'm currently studying at Universidad Tecnológica de Torreón, focusing on web 
 ### Technologies:
 
 - **C#**  
-  ![C# Icon](https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg)
+  ![C# Icon](![image](https://github.com/user-attachments/assets/45abbe83-202a-4b3f-ac80-049dbcb15336)
+)
 
 - **JavaScript (JS)**  
   ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
