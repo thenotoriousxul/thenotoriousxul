@@ -12,23 +12,16 @@ I'm currently studying at Universidad Tecnológica de Torreón, focusing on web 
 ### Technologies:
 
 JavaScript (JS):
-https://img.icons8.com/color/48/000000/javascript.png
 
 MySQL:
-https://img.icons8.com/color/48/000000/mysql.png
 
 Vue.js:
-https://img.icons8.com/color/48/000000/vue-js.png
 
 Git:
-https://img.icons8.com/color/48/000000/git.png
 
 Microsoft C#:
-![image](https://github.com/user-attachments/assets/42e674bc-b292-4d69-b2a3-8ec0f3778ee4)
 
 
 PHP:
-https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
 
 Laravel:
-https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg
