@@ -11,17 +11,23 @@ I'm currently studying at Universidad Tecnológica de Torreón, focusing on web 
 
 ### Technologies:
 
-- **JavaScript (JS)**  
-  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+JavaScript (JS):
+https://img.icons8.com/color/48/000000/javascript.png
 
-- **MySQL**  
-![MySQL Icon](https://img.icons8.com/color/48/000000/mysql.png)
+MySQL:
+https://img.icons8.com/color/48/000000/mysql.png
 
-- **Vue.js**  
-![Vue.js Icon](https://img.icons8.com/color/48/000000/vue-js.png)
+Vue.js:
+https://img.icons8.com/color/48/000000/vue-js.png
 
-- **MySQL**  
-![MySQL Icon](https://img.icons8.com/color/48/000000/mysql.png)
+Git:
+https://img.icons8.com/color/48/000000/git.png
 
-- **Git**  
-![Git Icon](https://img.icons8.com/color/48/000000/git.png)
+Microsoft C#:
+https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
+
+PHP:
+https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
+
+Laravel:
+https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg
