@@ -24,7 +24,8 @@ Git:
 https://img.icons8.com/color/48/000000/git.png
 
 Microsoft C#:
-https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
+![image](https://github.com/user-attachments/assets/42e674bc-b292-4d69-b2a3-8ec0f3778ee4)
+
 
 PHP:
 https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
