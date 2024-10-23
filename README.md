@@ -19,6 +19,7 @@ I'm currently studying at Universidad Tecnológica de Torreón, focusing on web 
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50px" height="50px">
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50px" height="50px">
   <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel" width="50px" height="50px">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="50px" height="50px">
 </p>
 
 ---
