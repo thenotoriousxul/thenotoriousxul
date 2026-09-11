@@ -83,8 +83,4 @@ Software developer passionate about building resilient, scalable systems, explor
 <a href="https://www.linkedin.com/in/sa%C3%BAl-s%C3%A1nchez-974a23312/">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="45" />
 </a>
-<a href="https://github.com/thenotoriousxul">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="45" />
-</a>
-
 </div>
