@@ -6,7 +6,7 @@
 
 Software developer passionate about building resilient, scalable systems, exploring cloud architecture, DevOps, and modern backend/frontend engineering.
 
-[LinkedIn](https://www.linkedin.com/in/sa%C3%BAl-s%C3%A1nchez-974a23312/) • [Email](mailto:saulsanchezlopez999@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sa%C3%BAl-s%C3%A1nchez-974a23312/) • [Email](mailto:saulsanchezlopez999@gmail.com) • [GitHub](https://github.com/thenotoriousxul)
 
 ---
 
@@ -67,8 +67,7 @@ Software developer passionate about building resilient, scalable systems, explor
 ### GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thenotoriousxul&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=98c379&bg_color=0d1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thenotoriousxul&layout=compact&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=0d1117" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=thenotoriousxul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -83,4 +82,8 @@ Software developer passionate about building resilient, scalable systems, explor
 <a href="https://www.linkedin.com/in/sa%C3%BAl-s%C3%A1nchez-974a23312/">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="45" />
 </a>
+<a href="https://github.com/thenotoriousxul">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="45" />
+</a>
+
 </div>
