@@ -1,30 +1,89 @@
-# Hi there 👋  
-I'm currently studying at Universidad Tecnológica de Torreón, focusing on web development and design. 🌱  
-🔭 I’m diving deep into web design and development, exploring the latest technologies and best practices.  
-🌟 I’m passionate about creating user-friendly and aesthetically pleasing web applications.  
-🤔 I’m always eager to learn new techniques and collaborate on innovative projects.  
-💬 Feel free to ask me about web design, front-end development, or any tech-related queries.  
-📫 You can reach me at [email](mailto:saulsanchezlopez999@gmail.com) or connect with me on [LinkedIn](#).  
-😄 Pronouns: He/Him
+# Hi there
+
+I'm **Saúl Sánchez**, a Software Development student focused on web development, backend, frontend, and cloud technologies.
+
+I'm constantly learning and building projects to improve my skills and explore new technologies.
+
+I enjoy creating applications that are functional, secure, maintainable, and easy to use.
+
+I'm particularly interested in software development, cloud infrastructure, cybersecurity, and DevOps.
+
+I'm open to learning, collaborating, and working on interesting projects.
 
 ---
 
-### Technologies and Tools:
+## Technologies and Tools
+
+### Languages
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50px" height="50px">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50px" height="50px">
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="50px" height="50px">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50px" height="50px">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50px" height="50px">
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50px" height="50px">
-  <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel" width="50px" height="50px">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="50px" height="50px">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50">
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50">
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50">
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="50">
+  <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="50">
 </p>
+
+### Frameworks and Runtime
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="50">
+  <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel" width="50">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50">
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="50">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50">
+  <img src="https://img.icons8.com/color/48/000000/adonisjs.png" alt="AdonisJS" width="50">
+</p>
+
+* Angular
+* Laravel
+* React
+* Vue.js
+* Node.js
+* Express
+* AdonisJS
+
+### Frontend Tools
+
+* Vite
+* TypeScript
+* React
+* Angular
+* Vue.js
+
+### Mobile
+
+* Android Studio
+* Kotlin
+* Swift
+* Xcode
+
+### Cloud and Infrastructure
+
+* AWS EC2
+* AWS S3
+* DigitalOcean
+* Cloudflare
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* SQL Server
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* Docker
+* Linux
 
 ---
 
-### GitHub Stats 📊:
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thenotoriousxul&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -33,15 +92,29 @@ I'm currently studying at Universidad Tecnológica de Torreón, focusing on web 
 
 ---
 
-### Fun Fact 🤓:
+## Currently Learning
 
-- 🎨 I love experimenting with UI/UX design to create visually appealing and intuitive applications.
-- 💡 Constantly learning new technologies to improve my skillset.
-- 🌍 Open to collaboration and building projects that impact people's lives!
+* Backend development
+* Frontend architecture
+* Cloud infrastructure
+* DevOps
+* Cybersecurity
+* Software architecture
+* Design patterns
 
 ---
 
-### Let's Connect! 💬
+## About Me
+
+I enjoy developing full-stack applications and learning how different technologies work together.
+
+I'm interested in building reliable software, improving my development practices, and understanding the infrastructure behind modern applications.
+
+I'm also exploring cybersecurity, cloud computing, and DevOps to develop a broader understanding of software engineering.
+
+---
+
+## Let's Connect
 
 <p align="center">
   <a href="mailto:saulsanchezlopez999@gmail.com">
@@ -53,12 +126,4 @@ I'm currently studying at Universidad Tecnológica de Torreón, focusing on web 
   <a href="https://github.com/thenotoriousxul">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
-
----
-
-### GIF Time 🎉:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Developer GIF">
 </p>
