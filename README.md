@@ -22,8 +22,6 @@ I'm open to learning, collaborating, and working on interesting projects.
 
 </div>
 
-**Also:** Kotlin · Swift
-
 ### Frameworks & Runtime
 
 <div align="center">
@@ -31,8 +29,6 @@ I'm open to learning, collaborating, and working on interesting projects.
 <img src="https://skillicons.dev/icons?i=angular,laravel,react,vue,nodejs,express&perline=6&theme=dark" alt="Frameworks and Runtime" />
 
 </div>
-
-**Also:** AdonisJS
 
 ### Mobile Development
 
@@ -46,7 +42,9 @@ I'm open to learning, collaborating, and working on interesting projects.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,digitalocean,cloudflare,docker,linux,nginx&perline=6&theme=dark" alt="Cloud and Infrastructure" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,linux,nginx&perline=5&theme=dark" alt="Cloud and Infrastructure" />
+<br/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
 
 </div>
 
@@ -59,8 +57,6 @@ I'm open to learning, collaborating, and working on interesting projects.
 <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2&theme=dark" alt="Databases" />
 
 </div>
-
-**Also:** SQL Server
 
 ### Development Tools
 
@@ -76,9 +72,9 @@ I'm open to learning, collaborating, and working on interesting projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thenotoriousxul&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=thenotoriousxul&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenotoriousxul&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenotoriousxul&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages" />
 
 </div>
 
@@ -111,15 +107,13 @@ I'm also exploring cybersecurity, cloud computing, and DevOps to develop a broad
 <div align="center">
 
 <a href="mailto:saulsanchezlopez999@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
 </a>
-
 <a href="https://www.linkedin.com/in/sa%C3%BAl-s%C3%A1nchez-974a23312/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
-
 <a href="https://github.com/thenotoriousxul">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
 </a>
 
 </div>
