@@ -6,7 +6,7 @@
 
 Software developer passionate about building resilient, scalable systems, exploring cloud architecture, DevOps, and modern backend/frontend engineering.
 
-[LinkedIn](https://www.linkedin.com/in/sa%C3%BAl-s%C3%A1nchez-974a23312/) • [Email](mailto:saulsanchezlopez999@gmail.com) • [GitHub](https://github.com/thenotoriousxul)
+[LinkedIn](https://www.linkedin.com/in/sa%C3%BAl-s%C3%A1nchez-974a23312/) • [Email](mailto:saulsanchezlopez999@gmail.com)
 
 ---
 
